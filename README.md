@@ -1,1 +1,2 @@
-# Newton-s-Cradle
+# Newton's cradle
+Newton's Cradle
